@@ -26,3 +26,5 @@
 📧 Email: leosrdev@gmail.com  
 💻 GitHub: https://github.com/leosrdev
 
+
+### "_The joy of comprehension is the spark that ignites the fire of curiosity._" - Aristotle
