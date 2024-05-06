@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Leo Campos
-#### Senior Software Engineer
 ![I am Senior Software Engineer](https://github.com/leosrdev/leosrdev/assets/160193443/ecacdc43-577d-4cd1-9985-37fd9a4fb897)
-
-I'm a software engineer with over two decades of experience. I have experience working in Back-end, CI/CD and Full Stack Development.
-During my Software Engineering career, I have worked with multiple programming languages, frameworks and technologies, such as: Java, Spring Boot, PHP, Docker, Jenkins, React.js and AWS.
-My interests ranges from cloud services to AI, and from refactoring techniques to design patterns, I'm always eager to explore new technologies.
+### Leo Campos
+#### Senior Software Engineer
+I bring over two decades of professional expertise encompassing Back-end, CI/CD, and Full Stack Development.  
+My versatile skill set spans Java, Spring Boot, PHP, Docker, Jenkins, React.js, and AWS services.  
+From cloud computing to AI and from refactoring techniques to design patterns, my interests are diverse and ever-evolving.  
+I thrive on exploring new technologies and leveraging them to drive innovation.
 
 ## Skills
 ✅ Languages: Java, Spring Boot, PHP, React.js  
