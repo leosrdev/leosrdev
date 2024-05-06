@@ -1,10 +1,9 @@
-![I am Senior Software Engineer](https://github.com/leosrdev/leosrdev/assets/160193443/ecacdc43-577d-4cd1-9985-37fd9a4fb897)
-### Leo Campos
-#### Senior Software Engineer
-I bring over two decades of professional expertise encompassing Back-end, CI/CD, and Full Stack Development.  
-My versatile skill set spans Java, Spring Boot, PHP, Docker, Jenkins, React.js, and AWS services.  
-From cloud computing to AI and from refactoring techniques to design patterns, my interests are diverse and ever-evolving.  
-I thrive on exploring new technologies and leveraging them to drive innovation.
+### 👋 Hi, I'm Leo!
+🖥️ Senior Software Engineer  
+👨‍🎓 Studied Physics at the University of São Paulo  
+🛠️ Creating a new website with GitHub public repository insights  
+🚀 Studying Confidential Computing
+
 
 ## Skills
 ✅ Languages: Java, Spring Boot, PHP, React.js  
