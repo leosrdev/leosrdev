@@ -7,7 +7,7 @@
 ## Skills
 - **Cloud Computing:** AWS services 🔹 EC2 🔹 S3 🔹 ELB 🔹VPC 🔹 Route 53  
 - **DevOps:** 🔹 Docker (Swarm) 🔹 Jenkins  
-- **Langagues:** Java 🔹 Spring Boot 🔹 PHP 🔹 React.js  
+- **Languages:** Java 🔹 Spring Boot 🔹 PHP 🔹 React.js  
 - **AI:** Prompt Engineering 🔹 ChatGPT  
 - **Databases:** Oracle 🔹 MySQL 🔹 MongoDB  
 - **Engines:** ElasticSearch 🔹 Apache Solr  
