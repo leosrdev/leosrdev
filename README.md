@@ -4,15 +4,15 @@
 
 I'm a software engineer with over two decades of experience. I have experience working in Back-end, CI/CD and Full Stack Development.
 During my Software Engineering career, I have worked with multiple programming languages, frameworks and technologies, such as: Java, Spring Boot, PHP, Docker, Jenkins, React.js and AWS.
-My interests ranges from cloud services to AI, and from refactoring techniques to design patterns, I'm always eager to explore new technologies and recently I earned the AWS Solutions Architect Certification.
+My interests ranges from cloud services to AI, and from refactoring techniques to design patterns, I'm always eager to explore new technologies.
 
 ## Skills
-✅ Languages: Java / Spring Boot / PHP / React.js  
-✅ DevOps: Jenkins (software development cycle)  
-✅ Cloud Computing: AWS services  
-✅ Databases: Oracle / MySQL / MongoDB  
-✅ Monitoring: Datadog / ELK / Splunk  
-✅ Engines: ElasticSearch / Apache Solr  
+✅ Languages: Java, Spring Boot, PHP, React.js  
+✅ DevOps: Docker (Swarm), Jenkins  
+✅ Cloud Computing: AWS services (EC2, S3, VPC, Route 53)  
+✅ Databases: Oracle, MySQL, MongoDB  
+✅ Monitoring: Datadog, ELK, Splunk  
+✅ Engines: ElasticSearch, Apache Solr  
 
 ## Certifications
 🎖️ AWS Solutions Architect Associate (2024)  
