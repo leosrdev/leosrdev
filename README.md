@@ -25,7 +25,7 @@
 ### ✨ Let's collaborate and create a positive impact! ✨
 🔗 LinkedIn: https://www.linkedin.com/in/leocamposdev  
 📧 Email: leosrdev@gmail.com  
-💻 GitHub: https://github.com/leosrdev
+💻 GitHub: https://github.com/leosrdev  
 
 
-### "_The joy of comprehension is the spark that ignites the fire of curiosity._" - Aristotle
+ "_The joy of comprehension is the spark that ignites the fire of curiosity._" - Aristotle
