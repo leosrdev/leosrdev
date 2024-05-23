@@ -2,7 +2,7 @@
 🖥️ Senior Software Engineer  
 👨‍🎓 Studied Physics at the University of São Paulo  
 🛠️ Creating a new website with GitHub public repository insights  
-🚀 Studying Confidential Computing
+🚀 Studying Confidential Computing ([learn more](https://en.wikipedia.org/wiki/Confidential_computing))
 
 ## Skills
 - **Cloud Computing:** AWS services 🔹 EC2 🔹 S3 🔹 ELB 🔹VPC 🔹 Route 53  
