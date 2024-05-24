@@ -6,10 +6,10 @@
 ### 👋 Hi, I'm Leo!
 🖥️ Senior Software Engineer  
 👨‍🎓 Studied Physics at the University of São Paulo  
-🛠️ Creating a new website with GitHub public repository insights  
-🚀 Studying Confidential Computing ([learn more](https://en.wikipedia.org/wiki/Confidential_computing))
+🚀 Creating a new website with GitHub public repository insights  
+📖 Studying Confidential Computing ([learn more](https://en.wikipedia.org/wiki/Confidential_computing))
 
-### Languages and Tools 
+### Professional experience
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -22,13 +22,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="RabbitMQ" alt="RabbitMQ" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   
 </div>
 
-### Skills
+### Tools I love to work with
 ![Static Badge](https://img.shields.io/badge/AWS-EC2-blue?logo=amazonec2)
 ![Static Badge](https://img.shields.io/badge/AWS-S3-blue?logo=amazons3)
 ![Static Badge](https://img.shields.io/badge/AWS-VPC-blue?logo=amazons3amazonvpc)
@@ -43,7 +44,7 @@
 ![Static Badge](https://img.shields.io/badge/React.js-white?logo=react)  
 ![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql)
 ![Static Badge](https://img.shields.io/badge/MongoDB-white?logo=mongoDB)
-![Static Badge](https://img.shields.io/badge/Oracle-white?logo=oracle&logoColor=red)  
+![Static Badge](https://img.shields.io/badge/Oracle-white?logo=oracle&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/Redis-white?logo=redis)
 ![Static Badge](https://img.shields.io/badge/RabbitMQ-white?logo=rabbitmq)  
 ![Static Badge](https://img.shields.io/badge/OpenAI-white?logo=openai&logoColor=green)
