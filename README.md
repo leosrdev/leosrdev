@@ -29,7 +29,7 @@
 </div>
 
 ## Skills
-![Static Badge](https://img.shields.io/badge/AWS-EC2-red) ![Static Badge](https://img.shields.io/badge/AWS-S3-blue) ![Static Badge](https://img.shields.io/badge/AWS-VPC-green) ![Static Badge](https://img.shields.io/badge/AWS-Route53-yellow) 
+![Static Badge](https://img.shields.io/badge/AWS-EC2-red?logo=amazonec2) ![Static Badge](https://img.shields.io/badge/AWS-S3-blue?logo=amazons3) ![Static Badge](https://img.shields.io/badge/AWS-VPC-green?logo=amazons3amazonvpc) ![Static Badge](https://img.shields.io/badge/AWS-Route53-yellow?logo=amazons3amazonroute53) 
 - **DevOps:** 🔹 Docker (Swarm) 🔹 Jenkins  
 - **Languages:** Java 🔹 Spring Boot 🔹 PHP 🔹 React.js  
 - **AI:** Prompt Engineering 🔹 ChatGPT  
@@ -40,11 +40,19 @@
 - **Planning and mentoring**
 
 ### Certifications
-![Static Badge](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-2024-blue?logo=amazonaws)  
-![Static Badge](https://img.shields.io/badge/Sun_Certified_Java_EJB_Developer-2008-blue?logo=cachet)  
-![Static Badge](https://img.shields.io/badge/Oracle_Certified_Database_10g_DBA_Associate-2007-blue?logo=oracle)  
-![Static Badge](https://img.shields.io/badge/Sun_Certified_Java_Web_Component_Developer-2003-blue?logo=cachet)  
-![Static Badge](https://img.shields.io/badge/Sun_Certified_Java_Programmer-2003-blue?logo=cachet)  
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="50" height="50"/>  
+
+![Static Badge](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-2024-blue)  
+
+![Static Badge](https://img.shields.io/badge/Sun_Certified_Java_EJB_Developer-2008-blue)  
+
+![Static Badge](https://img.shields.io/badge/Oracle_Certified_Database_10g_DBA_Associate-2007-blue)  
+
+![Static Badge](https://img.shields.io/badge/Sun_Certified_Java_Web_Component_Developer-2003-blue)  
+
+![Static Badge](https://img.shields.io/badge/Sun_Certified_Java_Programmer-2003-blue)  
 
 
 <div id="header" align="center">
