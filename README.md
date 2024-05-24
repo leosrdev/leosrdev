@@ -29,7 +29,7 @@
 </div>
 
 ## Skills
-- ![Static Badge](https://img.shields.io/badge/AWS-EC2-red) ![Static Badge](https://img.shields.io/badge/AWS-S3-blue) ![Static Badge](https://img.shields.io/badge/AWS-VPC-green) ![Static Badge](https://img.shields.io/badge/AWS-Route53-yellow) 
+![Static Badge](https://img.shields.io/badge/AWS-EC2-red) ![Static Badge](https://img.shields.io/badge/AWS-S3-blue) ![Static Badge](https://img.shields.io/badge/AWS-VPC-green) ![Static Badge](https://img.shields.io/badge/AWS-Route53-yellow) 
 - **DevOps:** 🔹 Docker (Swarm) 🔹 Jenkins  
 - **Languages:** Java 🔹 Spring Boot 🔹 PHP 🔹 React.js  
 - **AI:** Prompt Engineering 🔹 ChatGPT  
@@ -40,11 +40,11 @@
 - **Planning and mentoring**
 
 ### Certifications
-- AWS Solutions Architect Associate (2024)  
-- Sun Certified Java Business Component Developer (2008)  
-- Oracle Certified Database 10g DBA Associate (2007)  
-- Sun Certified Java Web Component Developer (2003)  
-- Sun Certified Java Programmer (2003)  
+![Static Badge](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-2024-blue?logo=amazonaws)  
+![Static Badge](https://img.shields.io/badge/Sun_Certified_Java_EJB_Developer-2008-blue?logo=cachet)  
+![Static Badge](https://img.shields.io/badge/Oracle_Certified_Database_10g_DBA_Associate-2007-blue?logo=oracle)  
+![Static Badge](https://img.shields.io/badge/Sun_Certified_Java_Web_Component_Developer-2003-blue?logo=cachet)  
+![Static Badge](https://img.shields.io/badge/Sun_Certified_Java_Programmer-2003-blue?logo=cachet)  
 
 
 <div id="header" align="center">
