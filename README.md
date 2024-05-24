@@ -13,9 +13,10 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="OpenAPI" alt="OpenAPI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="RabbitMQ" alt="RabbitMQ" width="50" height="50"/>&nbsp;
@@ -35,14 +36,14 @@
 ![Static Badge](https://img.shields.io/badge/Docker_Compose/Swarm-white?logo=docker)
 ![Static Badge](https://img.shields.io/badge/Apache_Jenkins-white?logo=jenkins)
 ![Static Badge](https://img.shields.io/badge/Argo_GitOps-white?logo=argo)  
-![Static Badge](https://img.shields.io/badge/Java_17-white?logo=java)
+![Static Badge](https://img.shields.io/badge/Java_17-white?logo=oracle&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/Apache_Maven3-white?logo=apachemaven&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/Spring_Boot3-white?logo=springboot)
 ![Static Badge](https://img.shields.io/badge/PHP_8.1-white?logo=php)
 ![Static Badge](https://img.shields.io/badge/React.js-white?logo=react)  
-![Static Badge](https://img.shields.io/badge/Oracle-white?logo=oracle&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql)
-![Static Badge](https://img.shields.io/badge/MongoDB-white?logo=mongoDB)  
+![Static Badge](https://img.shields.io/badge/MongoDB-white?logo=mongoDB)
+![Static Badge](https://img.shields.io/badge/Oracle-white?logo=oracle&logoColor=red)  
 ![Static Badge](https://img.shields.io/badge/Redis-white?logo=redis)
 ![Static Badge](https://img.shields.io/badge/RabbitMQ-white?logo=rabbitmq)  
 ![Static Badge](https://img.shields.io/badge/OpenAI-white?logo=openai&logoColor=green)
