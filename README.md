@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ### 👋 Hi, I'm Leo!
 🖥️ Senior Software Engineer  
 👨‍🎓 Studied Physics at the University of São Paulo  
@@ -22,10 +27,19 @@
 - Sun Certified Java Web Component Developer (2003)  
 - Sun Certified Java Programmer (2003)  
 
-### ✨ Let's collaborate and create a positive impact! ✨
-🔗 LinkedIn: https://www.linkedin.com/in/leocamposdev  
-📧 Email: leosrdev@gmail.com  
-💻 GitHub: https://github.com/leosrdev  
 
+<div id="header" align="center">
+  <p>✨ Let's collaborate and create a positive impact! ✨</p>
+  <div id="badges">
+   <a href="https://www.linkedin.com/in/leocamposdev">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <a href="mailto:leosrdev@gmail.com">
+     <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Email Badge"/>
+   </a>
+ </div>
+<p><i>"The joy of comprehension is the spark that ignites the fire of curiosity." - Aristotle</i>i></p>
+</div>
+ 
 
- "_The joy of comprehension is the spark that ignites the fire of curiosity._" - Aristotle
+ <img src="https://komarev.com/ghpvc/?username=leosrdev&style=flat-square&color=blue" alt=""/>
