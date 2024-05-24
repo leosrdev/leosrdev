@@ -29,9 +29,26 @@
 </div>
 
 ## Skills
-![Static Badge](https://img.shields.io/badge/AWS-EC2-red?logo=amazonec2) ![Static Badge](https://img.shields.io/badge/AWS-S3-blue?logo=amazons3) ![Static Badge](https://img.shields.io/badge/AWS-VPC-green?logo=amazons3amazonvpc) ![Static Badge](https://img.shields.io/badge/AWS-Route53-yellow?logo=amazons3amazonroute53) 
-- **DevOps:** 🔹 Docker (Swarm) 🔹 Jenkins  
-- **Languages:** Java 🔹 Spring Boot 🔹 PHP 🔹 React.js  
+![Static Badge](https://img.shields.io/badge/AWS-EC2-blue?logo=amazonec2)
+![Static Badge](https://img.shields.io/badge/AWS-S3-blue?logo=amazons3)
+![Static Badge](https://img.shields.io/badge/AWS-VPC-blue?logo=amazons3amazonvpc)
+![Static Badge](https://img.shields.io/badge/AWS-Route53-blue?logo=amazonroute53&logoColor=green)  
+![Static Badge](https://img.shields.io/badge/Docker_Compose/Swarm-white?logo=docker)
+![Static Badge](https://img.shields.io/badge/Apache_Jenkins-white?logo=jenkins)
+![Static Badge](https://img.shields.io/badge/Argo_GitOps-white?logo=argo)  
+![Static Badge](https://img.shields.io/badge/Java_17-white?logo=java)
+![Static Badge](https://img.shields.io/badge/Apache_Maven3-white?logo=apachemaven&logoColor=red)
+![Static Badge](https://img.shields.io/badge/Spring_Boot3-white?logo=springboot)
+![Static Badge](https://img.shields.io/badge/PHP_8.1-white?logo=php)
+![Static Badge](https://img.shields.io/badge/React.js-white?logo=react)  
+![Static Badge](https://img.shields.io/badge/Oracle-white?logo=oracle&logoColor=red)
+![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql)
+![Static Badge](https://img.shields.io/badge/MongoDB-white?logo=mongoDB)  
+![Static Badge](https://img.shields.io/badge/OpenAI-white?logo=openai&logoColor=green)
+![Static Badge](https://img.shields.io/badge/ElasticSearch-white?logo=elasticsearch&logoColor=green)
+![Static Badge](https://img.shields.io/badge/Apache_SOLR-white?logo=apachesolr)
+
+
 - **AI:** Prompt Engineering 🔹 ChatGPT  
 - **Databases:** Oracle 🔹 MySQL 🔹 MongoDB  
 - **Engines:** ElasticSearch 🔹 Apache Solr  
