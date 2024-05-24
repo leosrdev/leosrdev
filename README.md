@@ -10,6 +10,22 @@
 📖 Studying Confidential Computing ([learn more](https://en.wikipedia.org/wiki/Confidential_computing))
 
 ### Professional experience
+![Static Badge](https://img.shields.io/badge/2018_to_2024-7shifts:_Restaurant_Scheduling-grey?labelColor=blue)  
+<div id="e1" align="justify">
+<p>Collaborated with cross-functional teams to define project requirements and prioritize feature development. Effectively prioritized tasks, met deadlines, and adapted to changes. Shaped UX/UI and designed high-traffic REST APIs handling over 10M+ requests daily. Led major refactoring projects, migrated auth logic for 1M+ users, and implemented caching strategies. Strengthened team collaboration through code reviews and feedback. Developed integration and unit tests, promoted code quality, and minimized web application bugs. Analyzed API metrics to drive performance enhancements and accelerated onboarding for new developers through constructive feedback and mentorship. </p>
+</div>
+
+![Static Badge](https://img.shields.io/badge/2015_to_2018-UOL:_Web_Portal-grey?labelColor=blue)  
+<div id="e2" align="justify">
+<p>Led a specialized team applying agile development practices, planning and implementing high-traffic REST APIs for Java microservices with Spring Boot. Wrote comprehensive tests using JUnit and Mockito, and conducted code reviews to ensure quality. Introduced automated unit and integration tests on Jenkins pipeline, including SonarQube, to enable swift CI/CD. Led implementation of messaging on RabbitMQ for optimized credit card processing, and devised Jenkins pipelines for containerization and Docker registry deployment. Collaborated with operations team for Kubernetes deployment and enhanced system monitoring and incident response with Log4J and Grafana/Splunk dashboards. Mentored junior developers to accelerate productivity.</p>
+</div>
+
+![Static Badge](https://img.shields.io/badge/2011_to_2014-Saraiva:_eCommerce-grey?labelColor=blue)  
+<div id="e2" align="justify">
+<p>Collaborated with IBM team in daily meetings to plan new features for e-commerce platform. Integrated diverse applications (C# , SQL Server, Magento) through REST APIs, accelerating feature development and enhancing user experience. Improved product search functionality on self-service totems by 70% with Apache SOLR. Developed multithreaded Java application, reducing catalog indexing time by 90% and saving costs. Generated real-time reports from Apache SOLR, informing sales strategies. Designed and implemented new website features using Java, and optimized API response times with Memcached caching layer, enhancing system performance.</p>
+</div>
+
+### Tech Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
