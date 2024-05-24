@@ -11,13 +11,13 @@
 
 ### Professional experience
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="OpenAPI" alt="OpenAPI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LInux"  alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="RabbitMQ" alt="RabbitMQ" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -25,15 +25,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   
 </div>
 
 ### Tools I love to work with
-![Static Badge](https://img.shields.io/badge/AWS-EC2-blue?logo=amazonec2)
-![Static Badge](https://img.shields.io/badge/AWS-S3-blue?logo=amazons3)
-![Static Badge](https://img.shields.io/badge/AWS-VPC-blue?logo=amazons3amazonvpc)
-![Static Badge](https://img.shields.io/badge/AWS-Route53-blue?logo=amazonroute53&logoColor=green)  
+![Static Badge](https://img.shields.io/badge/AWS_EC2-white?logo=amazonec2)
+![Static Badge](https://img.shields.io/badge/AWS_S3-white?logo=amazons3)
+![Static Badge](https://img.shields.io/badge/AWS_VPC-white?logo=amazons3amazonvpc)
+![Static Badge](https://img.shields.io/badge/AWS_Route53-white?logo=amazonroute53&logoColor=green)  
 ![Static Badge](https://img.shields.io/badge/Docker_Compose/Swarm-white?logo=docker)
 ![Static Badge](https://img.shields.io/badge/Apache_Jenkins-white?logo=jenkins)
 ![Static Badge](https://img.shields.io/badge/Argo_GitOps-white?logo=argo)  
@@ -56,15 +56,11 @@
 ![Static Badge](https://img.shields.io/badge/Splunk-white?logo=splunk&logoColor=green)  
 
 ### Certifications
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="50" height="50"/>  
-
-![Static Badge](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-2024-blue)  
-![Static Badge](https://img.shields.io/badge/Sun_Certified_EJB_Developer-2008-blue)  
-![Static Badge](https://img.shields.io/badge/Oracle_Certified_Database_10g_DBA_Associate-2007-blue)  
-![Static Badge](https://img.shields.io/badge/Sun_Certified_Java_Web_Developer-2003-blue)  
-![Static Badge](https://img.shields.io/badge/Sun_Certified_Java_Programmer-2003-blue)  
+![Static Badge](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-2024-black?labelColor=blue)  
+![Static Badge](https://img.shields.io/badge/Sun_Certified_EJB_Developer-2008-black?labelColor=blue)  
+![Static Badge](https://img.shields.io/badge/Oracle_Certified_Database_10g_DBA_Associate-2007-black?labelColor=blue)  
+![Static Badge](https://img.shields.io/badge/Sun_Certified_Java_Web_Developer-2003-black?labelColor=blue)  
+![Static Badge](https://img.shields.io/badge/Sun_Certified_Java_Programmer-2003-black?labelColor=blue)  
 
 
 <div id="header" align="center">
