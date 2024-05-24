@@ -10,7 +10,7 @@
 📖 Studying Confidential Computing ([learn more](https://en.wikipedia.org/wiki/Confidential_computing))
 
 ### Professional experience
-![Static Badge](https://img.shields.io/badge/2018_to_2024-7shifts:_Restaurant_Scheduling-grey?labelColor=blue)  
+![Static Badge](https://img.shields.io/badge/2018_to_2024-7shifts:_Restaurant_Scheduling-grey?labelColor=blue&link=https://www.7shifts.com/)
 <div id="e1" align="justify">
 <p>Collaborated with cross-functional teams to define project requirements and prioritize feature development. Effectively prioritized tasks, met deadlines, and adapted to changes. Shaped UX/UI and designed high-traffic REST APIs handling over 10M+ requests daily. Led major refactoring projects, migrated auth logic for 1M+ users, and implemented caching strategies. Strengthened team collaboration through code reviews and feedback. Developed integration and unit tests, promoted code quality, and minimized web application bugs. Analyzed API metrics to drive performance enhancements and accelerated onboarding for new developers through constructive feedback and mentorship. </p>
 </div>
