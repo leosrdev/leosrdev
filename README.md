@@ -47,7 +47,7 @@
   
 </div>
 
-### Tools I love to work with
+### Tools I love to use
 ![Static Badge](https://img.shields.io/badge/AWS_EC2-white?logo=amazonec2)
 ![Static Badge](https://img.shields.io/badge/AWS_S3-white?logo=amazons3)
 ![Static Badge](https://img.shields.io/badge/AWS_VPC-white?logo=amazons3amazonvpc)
