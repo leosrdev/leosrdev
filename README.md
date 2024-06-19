@@ -6,7 +6,7 @@
 ### 👋 Hi, I'm Leo!
 🖥️ Senior Software Engineer  
 👨‍🎓 Studied Physics at the University of São Paulo  
-🚀 Creating a new website with GitHub public repositories insights  
+🚀 Created a data analytics platform for GitHub public repositories: [check this out!](https://goldengit.com)  
 📖 Studying Confidential Computing ([learn more](https://en.wikipedia.org/wiki/Confidential_computing))
 
 ### Professional experience
