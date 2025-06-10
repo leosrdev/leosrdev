@@ -9,20 +9,52 @@
 📖 Studying Confidential Computing ([learn more](https://en.wikipedia.org/wiki/Confidential_computing))
 
 ### Professional experience
-![Static Badge](https://img.shields.io/badge/2018_to_2024-7shifts:_Restaurant_Scheduling-grey?labelColor=blue&link=https://www.7shifts.com/)&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/Senior_Software_Engineer-darkgreen)
+
+**2024-2025 ::** [AgencyAnalytics](https://agencyanalytics.com/)
+<div id="e1" align="justify">
+<p>I focused on building scalable, data-driven solutions that enhanced marketing agency efficiency and client satisfaction. I developed and maintained RESTful APIs for social media integration, enabling automated collection of engagement metrics. On the front end, I extended a React.js platform to deliver new features and custom dashboards. I also improved system stability through bug fixes and backend enhancements, supporting real-time analytics that empowered agencies to make informed decisions and clearly demonstrate campaign ROI.</p>
+</div>  
+
+**2024 ::** [LiORA Soil Monitoring](https://ems-inc.ca/)
+<div id="e1" align="justify">
+<p>I specialize in optimizing full-stack systems and IoT analytics platforms. I integrated Prometheus and Grafana on AWS EC2, enhancing performance monitoring for IoT data. I implemented Microsoft authentication in a React.js app, improving security and user experience. I developed an algorithm to reduce SIM card bandwidth usage and led the rebuild of scalable Node.js and front-end systems. I also created clear documentation and tutorials to support onboarding and implemented Google Analytics for actionable user insights. Additionally, I improved API testing and access control, reinforcing system reliability and security across platforms.</p>
+</div>  
+  
+**2018-2024 ::** [7shifts Restaurant Scheduling](https://www.7shifts.com/)
 <div id="e1" align="justify">
 <p>Collaborated with cross-functional teams to define project requirements and prioritize feature development. Effectively prioritized tasks, met deadlines, and adapted to changes. Shaped UX/UI and designed high-traffic REST APIs handling over 10M+ requests daily. Led major refactoring projects, migrated auth logic for 1M+ users, and implemented caching strategies. Strengthened team collaboration through code reviews and feedback. Developed integration and unit tests, promoted code quality, and minimized web application bugs. Analyzed API metrics to drive performance enhancements and accelerated onboarding for new developers through constructive feedback and mentorship. </p>
 </div>
 
-![Static Badge](https://img.shields.io/badge/2015_to_2018-UOL:_Web_Portal-grey?labelColor=blue)&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/Senior_Java_Engineer-darkgreen)  
+**2015-2018 ::** [UOL Web Portal](https://noticias.uol.com.br/)
 <div id="e2" align="justify">
 <p>Led a specialized team applying agile development practices, planning and implementing high-traffic REST APIs for Java microservices with Spring Boot. Wrote comprehensive tests using JUnit and Mockito, and conducted code reviews to ensure quality. Introduced automated unit and integration tests on Jenkins pipeline, including SonarQube, to enable swift CI/CD. Led implementation of messaging on RabbitMQ for optimized credit card processing, and devised Jenkins pipelines for containerization and Docker registry deployment. Collaborated with operations team for Kubernetes deployment and enhanced system monitoring and incident response with Log4J and Grafana/Splunk dashboards. Mentored junior developers to accelerate productivity.</p>
 </div>
 
-![Static Badge](https://img.shields.io/badge/2011_to_2014-Saraiva:_eCommerce-grey?labelColor=blue)&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/Senior_Java_Developer-darkgreen)    
+**2011-2014** [Saraiva e-Commerce and Book Publisher](https://editorasaraiva.com.br/)
 <div id="e2" align="justify">
 <p>Collaborated with IBM team in daily meetings to plan new features for e-commerce platform. Integrated diverse applications (C# , SQL Server, Magento) through REST APIs, accelerating feature development and enhancing user experience. Improved product search functionality on self-service totems by 70% with Apache SOLR. Developed multithreaded Java application, reducing catalog indexing time by 90% and saving costs. Generated real-time reports from Apache SOLR, informing sales strategies. Designed and implemented new website features using Java, and optimized API response times with Memcached caching layer, enhancing system performance.</p>
 </div>
+
+**1994-2010** 
+<div id="e2" align="justify">
+<p>From 1994 to 2010, I worked in software development and system architecture across various industries, including the legal sector, telemarketing systems, pay TV providers, and the national health organization. During this time, I applied my expertise in technologies such as CA Clipper, Microsoft Visual Basic, Delphi, and Java programming ecosystem to build and maintain business-critical systems. My work focused on developing tailored solutions that improved operational efficiency, streamlined processes, and met the unique needs of each sector.</p>
+</div>
+
+### Professional Certifications
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/89075f43-fb1e-45f6-83b4-15962cfec647" height="100">
+  <img src="https://github.com/user-attachments/assets/d248c2ec-c680-43de-bb9f-d13cb7f9550c" height="100">
+  <img src="https://github.com/user-attachments/assets/435f7c9c-8733-4fe1-a4c8-e2d7512fed59" height="70" width="70">
+  <img src="https://github.com/user-attachments/assets/f0f3e050-66b2-4253-80e8-1510b8346b4c" height="80" width="80">
+</p>
+
+- AWS Certified Solutions Architect – Associate (2024)
+- IBM Object Oriented Analysis and UML Design (2008)
+- Sun Certified Java Business Component Developer (2008)
+- Oracle Certified Database 10g DBA Professional (2007)
+- Oracle Certified Database 10g DBA Associate (2006) 
+- Sun Certified Web Component Developer (2003)
+- Sun Certified Java Programmer (2003)
 
 ### Tech Stack
 <div>
@@ -43,10 +75,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/splunk/splunk-original-wordmark.svg" title="Splunk"  alt="Splunk" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  
 </div>
 
-### Tools I love to use
+### Tools I like
 ![Static Badge](https://img.shields.io/badge/AWS_EC2-white?logo=amazonec2)
 ![Static Badge](https://img.shields.io/badge/AWS_S3-white?logo=amazons3)
 ![Static Badge](https://img.shields.io/badge/AWS_VPC-white?logo=amazons3amazonvpc)
@@ -71,14 +102,6 @@
 ![Static Badge](https://img.shields.io/badge/ELK-white?logo=kibana&logoColor=pink)
 ![Static Badge](https://img.shields.io/badge/Grafana-white?logo=grafana)
 ![Static Badge](https://img.shields.io/badge/Splunk-white?logo=splunk&logoColor=green)  
-
-### Certifications
-![Static Badge](https://img.shields.io/badge/2024-AWS_Solutions_Architect_Associate-blue?labelColor=black)  
-![Static Badge](https://img.shields.io/badge/2008-Sun_Certified_EJB_Developer-blue?labelColor=black)  
-![Static Badge](https://img.shields.io/badge/2007-Oracle_Certified_Database_10g_DBA_Associate-blue?labelColor=black)  
-![Static Badge](https://img.shields.io/badge/2003-Sun_Certified_Java_Web_Developer-blue?labelColor=black)  
-![Static Badge](https://img.shields.io/badge/2003-Sun_Certified_Java_Programmer-blue?labelColor=black)  
-
 
 <div id="header" align="center">
   <p>✨ Let's collaborate and create a positive impact! ✨</p>
