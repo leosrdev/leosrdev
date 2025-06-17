@@ -6,7 +6,7 @@
 ### 👋 Hi, I'm Leo!
 🖥️ Senior Software Engineer  
 👨‍🎓 Studied Physics at the University of São Paulo  
-📖 Studying Confidential Computing ([learn more](https://en.wikipedia.org/wiki/Confidential_computing))
+📖 Studying [Model Context Protocol](https://github.com/modelcontextprotocol)
 
 ### Professional experience
 
