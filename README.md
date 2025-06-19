@@ -41,7 +41,7 @@
 
 **2024 ::** [GoldenGit.com - personal project](https://goldengit.com/)
 <div id="e1" align="justify">
-<p>GoldenGit is a web-based analytics dashboard that offers powerful insights into popular GitHub repositories. Designed for open-source contributors, project maintainers, and curious developers, GoldenGit helps you understand project health, development velocity, and team dynamics at a glance.</p>
+<p>GoldenGit is a web-based analytics dashboard that offers powerful insights into popular GitHub repositories. Designed for open-source contributors, project maintainers, and curious developers, GoldenGit helps you understand project health, development velocity, and team dynamics at a glance. Checkout the Github repository: https://github.com/leosrdev/goldengit-be</p>
 </div>  
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
