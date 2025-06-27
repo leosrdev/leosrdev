@@ -6,7 +6,10 @@
 ### 👋 Hi, I'm Leo!
 🖥️ Senior Software Engineer  
 👨‍🎓 Studied Physics at the University of São Paulo  
-📖 Studying [Model Context Protocol](https://github.com/modelcontextprotocol)
+📖 Boosting my knowledge in:
+- [Model Context Protocol](https://modelcontextprotocol.io/)
+- [Agentic AI](https://www.ibm.com/think/topics/agentic-ai)
+- [Deep Learning](https://arxiv.org/list/stat.ML/recent)
 
 ### Professional experience
 
