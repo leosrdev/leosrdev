@@ -106,6 +106,10 @@
 - Sun Certified Web Component Developer (2003)
 - Sun Certified Java Programmer (2003)
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/89075f43-fb1e-45f6-83b4-15962cfec647" height="80" width="80">
+</p>
+
 <div id="header" align="center">
   <p>✨ Let's collaborate and create a positive impact! ✨</p>
   <div id="badges">
