@@ -103,13 +103,6 @@
 </div>
 
 ### Professional Certifications
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/89075f43-fb1e-45f6-83b4-15962cfec647" height="100">
-  <img src="https://github.com/user-attachments/assets/d248c2ec-c680-43de-bb9f-d13cb7f9550c" height="100">
-  <img src="https://github.com/user-attachments/assets/435f7c9c-8733-4fe1-a4c8-e2d7512fed59" height="70" width="70">
-  <img src="https://github.com/user-attachments/assets/f0f3e050-66b2-4253-80e8-1510b8346b4c" height="80" width="80">
-</p>
-
 - AWS Certified Solutions Architect – Associate (2024)
 - IBM Object Oriented Analysis and UML Design (2008)
 - Sun Certified Java Business Component Developer (2008)
